@@ -1,1 +1,1 @@
-# inheritance
+ inheritance
